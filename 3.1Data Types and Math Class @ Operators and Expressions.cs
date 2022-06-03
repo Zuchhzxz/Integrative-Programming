@@ -14,7 +14,7 @@ namespace computeAverageApp
             {
                 Console.WriteLine("");
                 double num = Convert.ToDouble(Console.ReadLine());
-                average + = num;
+                average = num;
             }
             
             double fa = average /5;
