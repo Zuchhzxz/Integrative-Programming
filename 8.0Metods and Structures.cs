@@ -8,9 +8,9 @@ namespace ConsoleApp
         public string author;
         public int book_id;
 
-        public void setValues(string newTtile, string newAuthor, int newBookID)
+        public void setValues(string newTitle, string newAuthor, int newBookID)
         {
-            this.title = newTtile;
+            this.title = newTitle;
             this.author = newAuthor;
             this.book_id = newBookID;
         }
